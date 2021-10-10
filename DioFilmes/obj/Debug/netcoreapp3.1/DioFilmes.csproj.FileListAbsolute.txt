@@ -1,0 +1,5 @@
+C:\Users\Kleber\Desktop\Projeto Programação\DioFilmes\DioFilmes\obj\Debug\netcoreapp3.1\DioFilmes.csproj.AssemblyReference.cache
+C:\Users\Kleber\Desktop\Projeto Programação\DioFilmes\DioFilmes\obj\Debug\netcoreapp3.1\DioFilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kleber\Desktop\Projeto Programação\DioFilmes\DioFilmes\obj\Debug\netcoreapp3.1\DioFilmes.AssemblyInfoInputs.cache
+C:\Users\Kleber\Desktop\Projeto Programação\DioFilmes\DioFilmes\obj\Debug\netcoreapp3.1\DioFilmes.AssemblyInfo.cs
+C:\Users\Kleber\Desktop\Projeto Programação\DioFilmes\DioFilmes\obj\Debug\netcoreapp3.1\DioFilmes.csproj.CoreCompileInputs.cache
